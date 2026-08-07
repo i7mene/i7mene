@@ -143,9 +143,3 @@ Scalable full-stack web platform for medical students, built with Next.js, Node.
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=i7mene&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-</div>
