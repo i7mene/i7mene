@@ -16,8 +16,7 @@
 ```
 i7mene ---------------------------------------------
 
-Role:.............. Full-Stack Developer / Data Science & AI
-Location:.......... Lyon, France
+Role:.............. Data Science & AI / Full-Stack Developer 
 Education:......... M2 Data Science, Universite Claude Bernard Lyon 1
 
 Languages.Spoken:... French, Arabic, English (C1), Turkish (A2)
