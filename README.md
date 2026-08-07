@@ -8,7 +8,7 @@
 <tr>
 <td width="50%">
 
-<img src="./ascii.png" width="100%"/>
+<img src="./ascii-art.png" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
